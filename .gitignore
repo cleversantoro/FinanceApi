@@ -21,7 +21,7 @@ obj/
 Thumbs.db
 
 # Entity Framework migrations
-Migrations/
+#Migrations/
 
 # Sensitive configuration
 appsettings.json
