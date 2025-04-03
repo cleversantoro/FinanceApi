@@ -1,0 +1,28 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Entity Framework migrations
+Migrations/
+
+# Sensitive configuration
+appsettings.json
+appsettings.*.json
