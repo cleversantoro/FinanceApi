@@ -7,6 +7,8 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+*.vs
+*.db*
 
 # Logs
 *.log
